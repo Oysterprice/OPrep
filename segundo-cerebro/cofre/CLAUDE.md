@@ -63,7 +63,7 @@ Valem para toda ficha, apostila, cartilha ou manual que sair daqui — do Consel
 ### Propriedades da ficha técnica
 `classe` (prato ou pre-preparo) · `categoria` · `casa` · `codigo` · `status` · `rendimento` + `unidade_rendimento` · `custo_total_receita` · `custo_porcao` · `preco_venda` · `vendas_mes` · `curva_abc` · `matriz` · `fonte_custos` (origem e data dos custos) · `planilha` · `atualizado`. O [[Painel de Fichas.base|Painel de Fichas]] calcula CMV %, faixa, preço sugerido, margem e MC do mês a partir delas.
 
-## Integração com o Oyster Prep (proposto pelo Claude em 09/10/2026, a confirmar pelo Marcus)
+## Integração com o Oyster Prep (combinado em 09/10/2026)
 O app (https://app.oprep.com.br) guarda o número; o cofre guarda o porquê. Detalhe em [[Integração com o Oyster Prep]].
 - Custo, CMV, preço, composição, rendimento, saldo e notas de compra: **vale o app**. O cofre guarda cópia com data em `app_conferido`.
 - Nota de ficha, pré-preparo, insumo, fornecedor e POP leva `app_codigo` e `app_tela` para abrir o cadastro no app.
@@ -100,7 +100,7 @@ Ao terminar uma tarefa relevante:
 
 ## Parâmetros da casa
 Detalhe em [[CMV e Precificação]].
-- Prime Cost 48% = mão de obra 22% + compra 26%, sobre o faturamento bruto; despesas até 35% (com Simples 6% e maquininha 1,6% dentro); lucro 17%
+- Prime Cost 48% = mão de obra 22% + compra 26%, sobre o faturamento bruto; despesas até 35% (com Simples 6% e maquininha 1,6% dentro); lucro ~~17%~~ **15%** (decidido pelo Marcus em 09/10/2026); os 2 pontos que saíram do lucro ainda não têm destino → [[CMV e Precificação]]
 - CMV alvo de 26% → preço sugerido = custo da porção ÷ 0,26 (≈ custo × 3,85)
 - Faixas: 🟢 até 26% · 🟡 de 26% a 30% · 🔴 acima de 30%
 - Cozinha com 3 cozinheiros: prato novo tem de caber nessa brigada → [[Equipamentos da Cozinha]]

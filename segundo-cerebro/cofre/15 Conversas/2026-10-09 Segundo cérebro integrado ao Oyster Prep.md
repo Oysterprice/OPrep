@@ -11,7 +11,8 @@ tags:
 O Marcus pediu para organizar o segundo cérebro e integrá-lo ao app. O cofre já estava organizado (112 notas); o que faltava era a ponte com o app e alguns modelos. Ver [[2026-10-09|Diário de 09/10]].
 
 ## Decisões
-- Nenhuma confirmada pelo Marcus ainda. Proposta: o app é a fonte de verdade dos números; o cofre, do porquê ([[Integração com o Oyster Prep]]).
+- O app é a fonte de verdade dos números; o cofre, do porquê ([[Integração com o Oyster Prep]]) — confirmado pelo Marcus.
+- Meta de lucro passa de 17% para **15%** — decidido pelo Marcus.
 
 ## Entregas
 - [[Integração com o Oyster Prep]] · [[Inventário do conhecimento]]
@@ -35,3 +36,7 @@ O Marcus pediu para organizar o segundo cérebro e integrá-lo ao app. O cofre j
 **Claude:** Pedi acesso à pasta do cofre, porque o segundo cérebro já existe e eu queria organizar o que estava lá, não criar um paralelo. Propus manter a numeração do cofre e completar o que falta: porta de entrada, operação, consultoria, modelos novos e uma nota de integração com o app. Avisei de duas correções: o app está em app.oprep.com.br, e os conselheiros procuram o cofre na pasta antiga do Desktop.
 
 **Claude:** (depois de ler o cofre) O cofre já tinha `00 Início`, `50 Consultoria B2B` e quase todos os modelos — a proposta encolheu para o que de fato faltava: a ponte com o app, quatro modelos e as correções de caminho e endereço.
+
+**Marcus:** sim · vamos por 15% · comece por onde achar melhor
+
+**Claude:** Regra marcada como valendo e meta de lucro trocada para 15% nas notas do cofre. Ficaram em aberto: pôr 15% nas Configurações do app e decidir o destino dos 2 pontos que saíram do lucro.

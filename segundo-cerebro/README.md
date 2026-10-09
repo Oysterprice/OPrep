@@ -20,3 +20,6 @@ para o mesmo caminho dentro do cofre (as de 09/10/2026 já foram gravadas lá).
   `30 Áreas/Sistemas e Ferramentas.md` — seção do app na porta de entrada,
   caminho do cofre e endereço do app corrigidos.
 - `10 Diário/2026-10-09.md` e `15 Conversas/…` — o registro, como o cofre manda.
+- Decisões do Marcus no mesmo dia: a regra do app passou a valer, e a meta de
+  lucro caiu de 17% para 15% (`CMV e Precificação`, `Ponto de Equilíbrio`,
+  `Financeiro`, `Conselheiro Financeiro`, `CLAUDE.md`).

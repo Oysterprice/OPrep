@@ -59,9 +59,8 @@ Endereços que funcionam hoje (precisa estar logado):
 O [[Painel de Fichas.base|Painel de Fichas]] calcula CMV %, preço sugerido e margem a partir de `custo_porcao` e `preco_venda`. Esses dois são **cópia do app**: ao copiar, anote a data em `app_conferido` e `fonte_custos: Oyster Prep, DD/MM/AAAA`. Nada de digitar custo de cabeça no cofre — custo sem nota lançada no app é "a informar".
 
 ## Metas: os dois lados precisam dizer o mesmo
-- Cofre ([[CMV e Precificação]]): CMV alvo 26%, mão de obra 22%, Prime Cost 48%, lucro 17%.
-- Objetivo do projeto: lucro líquido **nunca abaixo de 15%** — é o piso; os 17% são a meta.
-- No app, a meta de lucro é editável por empresa (Configurações). **A conferir:** se o valor lá é 17%. Se a meta mudar, muda no app, nesta nota e nos números 0.26 e 0.924 do Painel de Fichas.
+- Cofre ([[CMV e Precificação]]): CMV alvo 26%, mão de obra 22%, Prime Cost 48%, lucro **15%** (era 17% até 09/10/2026).
+- No app, a meta de lucro é editável por empresa (Configurações) e tem de estar em **15%**. Se a meta mudar, muda no app, em [[CMV e Precificação]] e nesta nota. Os números 0.26 e 0.924 do Painel de Fichas só mudam se mudar a meta de CMV ou a alíquota.
 
 ## Onde mais vive conhecimento da Oyster
 Mapa completo em [[Inventário do conhecimento]].
@@ -69,5 +68,5 @@ Mapa completo em [[Inventário do conhecimento]].
 ## Decisões
 | Data | Decisão | Por quê |
 |---|---|---|
-| 09/10/2026 | *(proposta, a confirmar)* O app é a fonte de verdade dos números; o cofre, do porquê | evitar dois custos diferentes para o mesmo prato em dois lugares |
-| 09/10/2026 | *(proposta, a confirmar)* Toda nota de cadastro leva `app_codigo`, `app_tela` e `app_conferido` | achar o item no app em um clique e saber de quando é a cópia |
+| 09/10/2026 | O app é a fonte de verdade dos números; o cofre, do porquê | evitar dois custos diferentes para o mesmo prato em dois lugares |
+| 09/10/2026 | Toda nota de cadastro leva `app_codigo`, `app_tela` e `app_conferido` | achar o item no app em um clique e saber de quando é a cópia |
